@@ -5,7 +5,6 @@ NSString * str = @"[调皮]如有疑问加我QQ#790974542#或者新浪微博@零
     WBStatus * status = [[WBStatus alloc]init];
     status.text = str;
     _TestTextView.editable = NO;
-
     _TestTextView.attributedText = status.attributedText;
 
 ![image](https://github.com/wangwenbo0455/AttributedString/blob/master/AttributedString/AttributedString/111.gif) 
