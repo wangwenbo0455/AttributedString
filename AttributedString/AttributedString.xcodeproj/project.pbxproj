@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0D5BC6301F1B04A100249136 /* 111.gif in Resources */ = {isa = PBXBuildFile; fileRef = 0D5BC62F1F1B04A100249136 /* 111.gif */; };
 		0DDA30361EA9BE0300306B09 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DDA30351EA9BE0300306B09 /* main.m */; };
 		0DDA30391EA9BE0300306B09 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DDA30381EA9BE0300306B09 /* AppDelegate.m */; };
 		0DDA303C1EA9BE0300306B09 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DDA303B1EA9BE0300306B09 /* ViewController.m */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0D5BC62F1F1B04A100249136 /* 111.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 111.gif; sourceTree = "<group>"; };
 		0DDA30311EA9BE0300306B09 /* AttributedString.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AttributedString.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0DDA30351EA9BE0300306B09 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		0DDA30371EA9BE0300306B09 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -74,6 +76,7 @@
 			children = (
 				0DDA30371EA9BE0300306B09 /* AppDelegate.h */,
 				0DDA30381EA9BE0300306B09 /* AppDelegate.m */,
+				0D5BC62F1F1B04A100249136 /* 111.gif */,
 				0DDA303A1EA9BE0300306B09 /* ViewController.h */,
 				0DDA303B1EA9BE0300306B09 /* ViewController.m */,
 				0DDA304B1EA9BE6300306B09 /* RegexKitLite.h */,
@@ -160,6 +163,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0D5BC6301F1B04A100249136 /* 111.gif in Resources */,
 				0DDA30441EA9BE0300306B09 /* LaunchScreen.storyboard in Resources */,
 				0DDA30411EA9BE0300306B09 /* Assets.xcassets in Resources */,
 				0DDA303F1EA9BE0300306B09 /* Main.storyboard in Resources */,
@@ -339,6 +343,7 @@
 				0DDA304A1EA9BE0300306B09 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
